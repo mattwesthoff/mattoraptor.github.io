@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thea Images"
+title:  "Thea Backstory"
 date:   2016-10-11 10:16:30 -0700
 categories: dnd thea
 ---
