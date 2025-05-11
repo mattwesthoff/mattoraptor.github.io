@@ -2,3 +2,7 @@ baseURL = 'https://loginqueue.com/'
 languageCode = 'en-us'
 title = 'loginqueue'
 theme = 'hugo-blog-awesome'
+
+[caches]
+    [caches.images]
+        dir = ':cacheDir/images'
