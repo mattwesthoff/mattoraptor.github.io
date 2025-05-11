@@ -1,4 +1,4 @@
-baseURL = 'https://loginqueue.com/'
+baseURL = 'https://www.loginqueue.com/'
 languageCode = 'en-us'
 title = 'loginqueue'
 theme = 'hugo-blog-awesome'
