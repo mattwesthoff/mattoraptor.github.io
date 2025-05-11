@@ -2,21 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>loginqueue</title>
-    <link>https://loginqueue.com/</link>
+    <link>https://www.loginqueue.com/</link>
     <description>Recent content on loginqueue</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 14:26:44 -0700</lastBuildDate><atom:link href="https://loginqueue.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 May 2025 14:26:44 -0700</lastBuildDate>
+    <atom:link href="https://www.loginqueue.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://loginqueue.com/posts/hello/</link>
+      <link>https://www.loginqueue.com/posts/hello/</link>
       <pubDate>Sun, 11 May 2025 14:26:44 -0700</pubDate>
-      
-      <guid>https://loginqueue.com/posts/hello/</guid>
-      
+      <guid>https://www.loginqueue.com/posts/hello/</guid>
       <description>&lt;p&gt;Hello!&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>
